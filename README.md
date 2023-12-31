@@ -1,5 +1,5 @@
 # Esolangs
-An attempt to explore interesting esolangs and try to create my own fun, meaningful ones.\
+An attempt to explore interesting esolangs and try to create my own fun, meaningful ones.
 
 
 # BrainFu*k (BF)
