@@ -3,6 +3,7 @@ An attempt to explore interesting esolangs and try to create my own fun, meaning
 
 
 # BrainFu*k (BF)
-BF is a famous esolang ...(to be continued)
+BF is a famous esolang  <br />
+...(to be continued)
 
 
